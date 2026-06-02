@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Session transcript logs written by a logging hook (not part of the plugin)
+docs/claude-log/
+**/docs/claude-log/
+
+# Editor / OS noise
+*.swp
+*~
+Thumbs.db

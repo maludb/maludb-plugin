@@ -1,0 +1,17 @@
+{
+  "name": "maludb",
+  "owner": {
+    "name": "MaluDB",
+    "email": "edward.honour@gmail.com"
+  },
+  "description": "Plugins for building MaluDB memory applications.",
+  "plugins": [
+    {
+      "name": "maludb",
+      "source": "./maludb",
+      "description": "Build MaluDB memory applications. Three skills: integrate the REST API (maludb-api-client), query the PostgreSQL extension via SQL (maludb-sql-client), and scaffold the PHP API server (maludb-api-server).",
+      "version": "0.1.0",
+      "keywords": ["maludb", "memory", "knowledge-graph", "postgres", "rest-api"]
+    }
+  ]
+}

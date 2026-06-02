@@ -1,0 +1,20 @@
+{
+  "name": "maludb",
+  "version": "0.1.0",
+  "description": "Build MaluDB memory applications. Bundles three skills: integrate the MaluDB REST API into desktop/web clients (maludb-api-client), query the MaluDB PostgreSQL extension directly with SQL from middleware (maludb-sql-client), and scaffold the PHP API server itself (maludb-api-server).",
+  "author": {
+    "name": "Edward Honour",
+    "email": "edward.honour@gmail.com"
+  },
+  "keywords": [
+    "maludb",
+    "memory",
+    "knowledge-graph",
+    "postgres",
+    "pgvector",
+    "rest-api",
+    "svpo",
+    "embeddings"
+  ],
+  "license": "UNLICENSED"
+}
